@@ -1,0 +1,36 @@
+This is a complete free asset for Unity users, by courtesy of Javier Alarcón, from 7YearsEntertainment.
+
+
+----- HD HEAVY GUN -----------
+
+A free HD (very detailed) weapon model for getting started with any FPS or any kind of game. 
+
+It was made to resemble some kind of Sci-fi gun, and detachable one ammo clips and two energy battery clips.
+
+The main texture is a handraw a bit toonish style, but the weapons has a lot of different materials acroos its topology to customize the diffuse.
+
+-3 Main diffuse maps.
+-3 Normal maps.
+-Several extra diffuses showing different levels of  energy consume for the energy clips.
+
+-3422 tris between all objects.
+
+-Besides a default prefab, some additional color prefabs, like different types of ammunition.
+
+
+
+PLEASE! If you like it and find it usefull, Rate the asset ;)
+
+
+
+You can check last realeases, products and games of 7YearsEntertainment in:
+
+Blog:
+http://7yearsentertainment.blogspot.com.es/
+
+Personal 3d Art Gallery:
+http://alarconte.deviantart.com/gallery/
+
+And don't forget to see the products in sale of 7Ye in Unity Store!:
+https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:10351
+
